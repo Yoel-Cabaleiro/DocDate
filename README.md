@@ -30,7 +30,7 @@ By sharing your booking page url, patients will be able to book appointments by 
 ![patient](https://github.com/Yoel-Cabaleiro/DocDate/assets/113912282/ddfe983c-dd41-4c52-8b0b-03da5632b1c3)
 
 
-If you connected the app with your google account, bookings will be shown in your google calendar too, adn the patients will recive an email with the booking details in your behalf.
+If you connected the app with your google account, bookings will be shown in your google calendar too, and the patients will receive an email with the booking details in your behalf.
 
 We are planning to add more functionalities like the option for the patient to pay the service when they book or the posibility for several professionals to be linked to the same studio. 
 
