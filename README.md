@@ -10,7 +10,7 @@ This project is still in development.
 
 ## Dashboard
 
-Here you can see your appointments and its details and your working hours (white), personal events or holydays. When there si already and appointment or a holiday, this slots would not be elegible by patients to book.
+Here you can see your appointments and its details and your working hours (white), personal events or holydays. Is there is already and appointment or a holiday, this slots would not be elegible by patients to book.
 
 ![Calendar](https://github.com/Yoel-Cabaleiro/DocDate/assets/113912282/7d297608-cd54-4760-aaf7-963cc6f94408)
 
